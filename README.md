@@ -1,5 +1,3 @@
-Here is a comprehensive and easy-to-understand `README.md` for your script.
-
 ```markdown
 # Automated Login Testing & PDF Reporting
 
