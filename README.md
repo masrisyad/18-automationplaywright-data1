@@ -120,7 +120,3 @@ After a successful (or failed) run, you will find the following files generated 
 
 * **`screenshot1.png`**: The visual capture of the page after the login attempt.
 * **`test_report.pdf`**: The finalized report containing the pie chart, the tabular step-by-step logs, and the screenshot evidence.
-
-```
-
-```
